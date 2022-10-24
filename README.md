@@ -33,7 +33,6 @@ Create an app where you can add and remove emojis as you please.
 
 ![Desktop Screenshot](imgs/ss-desktop.png)
 
-
 ### Links
 
 - Solution URL: [Github](https://github.com/varonalearns/My-Emojis)
